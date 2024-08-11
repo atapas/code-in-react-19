@@ -1,11 +1,11 @@
 # Code in React 19
 
-As React 19 is new(and still in its beta), this scaffolding project is for everyone who wants to start coding in React 19.
+As React 19 is new(and still in its RC), this scaffolding project is for everyone who wants to start coding in React 19.
 
 It has:
 
 - Vite
-- React 19.0-beta
+- React 19.0 RELEASE CANDIDATE(RC)
 - TailwindCSS
 
 ## Run it Locally

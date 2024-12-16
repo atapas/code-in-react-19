@@ -5,7 +5,7 @@ As React 19 is new(and still in its RC), this scaffolding project is for everyon
 It has:
 
 - Vite
-- React 19.0 RELEASE CANDIDATE(RC)
+- React 19.0(Stable Version)
 - TailwindCSS
 
 ## Run it Locally

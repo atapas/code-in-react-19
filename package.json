@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^19.0.0-beta-b498834eab-20240506",
-    "react-dom": "^19.0.0-beta-b498834eab-20240506",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "react-error-boundary": "^4.0.13"
   },
   "devDependencies": {

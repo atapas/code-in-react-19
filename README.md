@@ -6,7 +6,7 @@ It has:
 
 - Vite
 - React 19.0(Stable Version)
-- TailwindCSS
+- TailwindCSS 4.x
 
 ## Create Your Own React 19 Project with Vite and TailwindCSS
 There are multiple ways you can utilize this repository to create your own project. The most straightforward way is by using the follwoing command from the command prompt/terminal:

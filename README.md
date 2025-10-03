@@ -5,7 +5,7 @@ As React 19 is new, this scaffolding project is for everyone who wants to start 
 It has:
 
 - Vite
-- React 19.0(Stable Version)
+- React 19.2(Stable Version)
 - TailwindCSS 4.x
 
 ## Create Your Own React 19 Project with Vite and TailwindCSS

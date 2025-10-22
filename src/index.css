@@ -17,3 +17,8 @@
     border-color: var(--color-gray-200, currentColor);
   }
 }
+
+body {
+  background-color: black;
+  color: #ffffff;
+}
